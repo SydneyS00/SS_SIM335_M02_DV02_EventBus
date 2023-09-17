@@ -6,4 +6,4 @@ https://sydneys00.github.io/SS_SIM335_M02_DV02_EventBus/
 Github Page:
 https://github.com/SydneyS00/SS_SIM335_M02_DV02_Command
 
-WebGL Link: 
+WebGL Link: https://sydneys00.github.io/SS_SIM335_M02_DV02_Command/
